@@ -7,3 +7,8 @@ This project is a simple AI-powered chatbot built using Flask (Python web framew
 -->Dynamically loads training data from a .txt file
 -->Simple and responsive frontend (index.html)
 -->Supports both GET and POST methods for interaction
+
+output
+![image](https://github.com/user-attachments/assets/cbd14065-4244-4d48-81fa-14ab65bd7d94)
+
+
